@@ -11,6 +11,8 @@
 .mtj.tmp/
 
 # Package Files #
+IJ/*.jar
+TESTPlugin_/*.jar
 *.jar
 *.war
 *.nar
